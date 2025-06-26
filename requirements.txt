@@ -10,3 +10,6 @@ langchain-google-genai
 faiss-cpu
 google-generativeai
 apscheduler
+gspread 
+oauth2client
+
